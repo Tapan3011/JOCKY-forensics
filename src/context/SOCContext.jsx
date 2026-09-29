@@ -292,7 +292,6 @@ export function SOCProvider({ children }) {
         metrics,
         endpoints,
         isolateEndpoint,
-        restoreEndpoint,
         dumpEndpointMemory,
         selectedEndpoint,
         setSelectedEndpoint,
